@@ -1,0 +1,4 @@
+bfb
+git config --global user.name 'drross22'
+git config --global user.email 'damon_ross@hotmail.com'
+git config --global --list
